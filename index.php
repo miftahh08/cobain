@@ -1,4 +1,4 @@
 <?php
-    include "Tugas1.html";
-    
+    include "index.html";
+
 ?>
